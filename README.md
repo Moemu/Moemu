@@ -32,9 +32,9 @@ Update to solve birthday problem with Python on May 15, 2021
 
 Donate to me, I will get more motivation to update my blog and GitHub
 
-![Wechat](https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/img/mm_facetoface_collect_qrcode_1612099488333.png)
+![Wechat](https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/mm_facetoface_collect_qrcode_1612099488333.png)
 
-![AliPay](https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/img/1583747131013.jpg)
+![AliPay](https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/1583747131013.jpg)
 
 注意：你可以看到两者收款人名字不相同，这个问题直至2024年后才能被解决
 
