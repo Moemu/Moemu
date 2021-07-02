@@ -21,6 +21,10 @@ date: 2021-02-02 00:00:00
 
 *如果该页面有错误之处，请与我们联系修改，感谢支持*
 
+{% note success flat %}
+在Github上编辑此页：[点我跳转](https://github.com/WhitemuTeam/WhitemuTeam/blob/main/magic girl of travel/《魔女之旅》ED全解析.md)
+{% endnote %}
+
 # 第一部分：歌词解析
 
 ## 穿越被月光照耀的小径

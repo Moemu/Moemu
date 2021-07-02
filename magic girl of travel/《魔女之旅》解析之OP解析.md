@@ -19,7 +19,9 @@ date: 2021-02-01 00:00:00
 *那是天才，成不了家,且卡哇伊的旅人.*
 *但正因如此,魔女才如此渴求旅行吧."——就叫Bilibilibili*
 
-**《魔女之旅》：Bilibili评分：9.6（2021/1/31）**
+{% note success flat %}
+在github上编辑此页：[点我跳转](https://github.com/WhitemuTeam/WhitemuTeam/edit/main/magic girl of travel/《魔女之旅》解析之OP解析.md)
+{% endnote %}
 
 *注意:请在继续浏览此文章前确保您已经看完《魔女之旅》第一季全十二话，如果你不能，*
 
