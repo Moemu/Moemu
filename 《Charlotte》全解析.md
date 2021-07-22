@@ -27,7 +27,9 @@ Version: 1.0（最终版本）
 
 {% note warning flat %}
 
-该页面部分内容不全，请您联系我们进行修改：WhitemuTeam@outlook.com
+该页面部分内容不全，请您到Github上进行修改：[点击跳转](https://github.com/WhitemuTeam/WhitemuTeam/blob/main/《Charlotte》全解析.md)
+
+或通过邮件的方式联系我们修改：WhitemuTeam@outlook.com
 
 请确保您重温过《Charlotte》，[点此跳转](https://www.bilibili.com/bangumi/play/ss2572)
 
