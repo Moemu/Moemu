@@ -16,14 +16,6 @@ No hair.
 
 ### Github个人数据（GitHub personal data）
 
-声明：本人只是一个菜鸟，如果你看到我的项目有更新，请提醒我更新Github个人主页
-
-2021.5.15更新用Python求解生日问题
-
-Statement: I am just a rookie, if you see my project has been updated, please remind me to update GitHub personal home page
-
-Update to solve birthday problem with Python on May 15, 2021
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WhitemuTeam&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 捐助我（Donate to me）：
