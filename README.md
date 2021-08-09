@@ -48,9 +48,9 @@ Or donate to me through bilibilibili charging (see the link below)
 
 QQ / WeChat: 2873464090
 
-Email: 2873464090@qq.com
+Email: WhitemuTeam@outlook.com
 
-Web: [沐の空间（腾讯云）](https://mu-1303888528.cos-website.ap-guangzhou.myqcloud.com/)
+Web: [沐の空间](https://muspace.top/)
 
 Bilibili：[White_mu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/97020216)
 
