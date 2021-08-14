@@ -18,24 +18,6 @@ No hair.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=WhitemuTeam&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 捐助我（Donate to me）：
-
-捐助我，我将会获得更多动力更新个人博客与Github（备注来源）
-
-Donate to me, I will get more motivation to update my blog and GitHub
-
-![Wechat](https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/mm_facetoface_collect_qrcode_1612099488333.png)
-
-![AliPay](https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/1583747131013.jpg)
-
-注意：你可以看到两者收款人名字不相同，这个问题直至2024年后才能被解决
-
-或者通过Bilibili充电来捐助我（见下方链接）
-
-Note: you can see that the two payees have different names. This problem will not be solved until 2024
-
-Or donate to me through bilibilibili charging (see the link below)
-
 ### 联系方式（Contact information）：
 
 QQ / WeChat: 2873464090
