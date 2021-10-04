@@ -6,13 +6,9 @@ Hello！ I'm white_ mu. Welcome to my GitHub homepage. Here are some of my perso
 
 ### 编程语言(Programming language)
 
-毛都不会。
+基本的Python和基本的CSS
 
-（除了初二老师教的比入门还入门的Python）
-
-No hair.
-
-(in addition to the second grade teacher's introduction to Python)
+Basic Python and basic CSS
 
 ### Github个人数据（GitHub personal data）
 
@@ -20,9 +16,7 @@ No hair.
 
 ### 联系方式（Contact information）：
 
-QQ / WeChat: 2873464090
-
-Email: WhitemuTeam@outlook.com
+Email: master@muspace.top
 
 Web: [沐の空间](https://muspace.top/)
 
