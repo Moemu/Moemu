@@ -1,14 +1,16 @@
 ## 自我介绍（Self introduction）
 
-Hello！我是White_mu，欢迎来到我的Github主页，下面是一些我的个人资料:
+Hello！我是Moemu，欢迎来到我的Github主页，下面是一些我的个人资料:
 
-Hello！ I'm White_ mu. Welcome to my GitHub homepage. Here are some of my personal information:
+Hello! I'm Moemu. Welcome to my GitHub homepage. Here are some of my personal information:
+
+Please note: some contents of this page are translated by machine. There may be grammatical problems. Please pay attention.
 
 ### 编程语言(Programming language)
 
-基本的Python和基本的CSS
+Python（中级），HTML+CSS+JavaScript（初级）
 
-Basic Python and basic CSS
+Python (intermediate), HTML + CSS + JavaScript (primary)
 
 ### Github个人数据（GitHub personal data）
 
