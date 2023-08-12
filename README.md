@@ -1,29 +1,23 @@
-## 自我介绍（Self introduction）
+## 关于我
 
-Hello！我是Moemu，欢迎来到我的Github主页，下面是一些我的个人资料:
+嗨，这里是Moemu，现在正在就读高三，浅浅学习了一些编程语言，是一个半吊子NLPer，目前正在进行沐雪聊天bot的开发
 
-Hello! I'm Moemu. Welcome to my GitHub homepage. Here are some of my personal information:
 
-Please note: some contents of this page are translated by machine. There may be grammatical problems. Please pay attention.
+### 语言
 
-### 编程语言(Programming language)
+Python（中级）；HTML三件套
 
-Python（中级），HTML+CSS+JavaScript（初级）
 
-Python (intermediate), HTML + CSS + JavaScript (primary)
+### Github个人数据
 
-### Github个人数据（GitHub personal data）
-
-[![Whitemu's github stats](https://github-readme-stats.vercel.app/api?username=Moemu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Moemu's github stats](https://github-readme-stats.vercel.app/api?username=Moemu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moemu&hide=html,JavaScript&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### 联系方式（Contact information）：
+### 联系方式：
 
 Email: master@muspace.top
 
 Web: [沐の空间](https://muspace.top/)
 
-Bilibili：[White_mu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/97020216)
-
-More...
+Bilibili：[Moemu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/97020216)
