@@ -16,8 +16,8 @@ Python（中级）；HTML三件套
 
 ### 联系方式：
 
-Email: master@muspace.top
+Email: mu@snowy.moe
 
-Web: [沐の空间](https://muspace.top/)
+Web: [沐の空间](https://blog.snowy.moe/)
 
-Bilibili：[Moemu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/97020216)
+Bilibili：[Moemuu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~ Bilibili](https://space.bilibili.com/97020216)
