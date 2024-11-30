@@ -23,6 +23,7 @@ Learning:
 ![](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=TypeScript&labelColor=white&color=%233178C6)
 
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -41,3 +42,7 @@ Email: [i@snowy.moe](mailto:i@snowy.moe)
 Blog: [雪萌天文台](https://blog.snowy.moe/)
 
 Bilibili：[Moemuu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~](https://space.bilibili.com/97020216)
+
+
+
+<a href="https://www.buymeacoffee.com/Moemu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 163px !important;" ></a>
