@@ -1,6 +1,8 @@
 ## About me
 
-嗨，这里是 Moemu ，一个准大一，浅浅学习了一些编程语言，平时没事做玩玩 LLM ，目前正在进行 Muice-Vtuber 的开发
+嗨。这里是 Moemu ，一个准大一，浅浅学习了一些编程语言，平时没事做玩玩大语言模型 ，目前正在进行 Muice-Vtuber 的开发。
+
+Hi there! This is Moemu, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm working on the development of Muice-Vtuber.
 
 ### Platforms & Code
 
@@ -39,9 +41,9 @@ Learning:
 
 Email: [i@snowy.moe](mailto:i@snowy.moe)
 
-Blog: [雪萌天文台](https://blog.snowy.moe/)
+Blog: [snowy.moe](https://blog.snowy.moe/)
 
-Bilibili：[Moemuu的个人空间 - 哔哩哔哩 ( ゜- ゜)つロ 乾杯~](https://space.bilibili.com/97020216)
+Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 
 
 
