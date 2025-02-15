@@ -37,6 +37,11 @@ Learning:
 ### Top langs
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moemu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Contact me
 
 Email: [i@snowy.moe](mailto:i@snowy.moe)
