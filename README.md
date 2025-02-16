@@ -42,9 +42,12 @@ Learning:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 2 hrs 10 mins
 
-No activity tracked
+Python       1 hr 36 mins    ██████████████████▒░░░░░░   73.44 %
+YAML         32 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+Markdown     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
