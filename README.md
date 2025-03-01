@@ -23,6 +23,7 @@ Learning:
 
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![](https://img.shields.io/badge/-Java-ff6b08?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=TypeScript&labelColor=white&color=%233178C6)
