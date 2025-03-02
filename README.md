@@ -40,6 +40,8 @@ Learning:
 
 ### WakaTime
 
+[![wakatime](https://wakatime.com/badge/user/637d5886-8b47-4b82-9264-3b3b9d6add67.svg)](https://wakatime.com/@637d5886-8b47-4b82-9264-3b3b9d6add67)
+
 <!--START_SECTION:waka-->
 
 ```txt
