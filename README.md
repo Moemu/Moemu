@@ -45,13 +45,13 @@ Learning:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 50 hrs 52 mins
+Total Time: 49 hrs 26 mins
 
-Python       32 hrs 1 min    ███████████████▒░░░░░░░░░   61.39 %
-C++          6 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Markdown     4 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
-YAML         2 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-Bash         1 hr 20 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Python       28 hrs 51 mins  ██████████████░░░░░░░░░░░   55.65 %
+C++          6 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Markdown     5 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+YAML         2 hrs 48 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
+Other        2 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
 ```
 
 <!--END_SECTION:waka-->
