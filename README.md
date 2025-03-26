@@ -45,13 +45,13 @@ Learning:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 142 hrs 33 mins
+Total Time: 147 hrs
 
-Python           92 hrs 19 mins  ███████████████░░░░░░░░░░   59.84 %
-Markdown         12 hrs 39 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Other            11 hrs 44 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-YAML             9 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-JSON             7 hrs 36 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
+Python           94 hrs 45 mins  ███████████████░░░░░░░░░░   59.66 %
+Markdown         13 hrs 12 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Other            11 hrs 47 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+YAML             10 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+JSON             7 hrs 37 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 ```
 
 <!--END_SECTION:waka-->
