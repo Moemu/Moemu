@@ -1,17 +1,22 @@
 ## About me
 
-嗨。这里是 Moemu ，一个准大一，浅浅学习了一些编程语言，平时没事做玩玩大语言模型 ，目前正在进行 Muice-Vtuber 的开发。
+你好呀，这里是 Muika 💜 我学了一点编程语言，目前大一在读。对大语言模型应用感兴趣 ，目前正在进行基于大语言模型的 Muicebot 开发。
 
-Hi there! This is Moemu, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm working on the development of Muice-Vtuber.
+Hi there! This is Muika, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm working on the development of Muicebot which is based on a large language modelling application.
+
+希望能和你成为很好的朋友！
+
+I hope to become very good friends with you!
 
 ### Platforms & Code
 
 ![](https://img.shields.io/badge/Windows-11-2376bc?style=for-the-badge&logo=Windows&logoColor=ffffff)
 ![](https://img.shields.io/badge/Ubuntu-24.04_LTS-e95420?style=for-the-badge&logo=Ubuntu)
-![](https://img.shields.io/badge/Android-10-34a853?style=for-the-badge&logo=Android)
+![](https://img.shields.io/badge/Android-15-34a853?style=for-the-badge&logo=Android)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 ![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=for-the-badge&logo=WebStrom&logoColor=white)
+![](https://img.shields.io/badge/IDE-IDEA-000000?style=for-the-badge&logo=WebStrom&logoColor=white)
 
 ![](https://img.shields.io/badge/-The_C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
@@ -30,6 +35,7 @@ Learning:
 
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
 
 ### Github stats
 
