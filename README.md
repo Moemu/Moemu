@@ -39,28 +39,16 @@ Learning:
 
 ### Github stats
 
-[![Moemu's github stats](https://github-readme-stats.vercel.app/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Moemu's github stats](https://github-readme-stats.vercel.app/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top langs
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moemu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Moemu&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WakaTime
 
 [![wakatime](https://wakatime.com/badge/user/637d5886-8b47-4b82-9264-3b3b9d6add67.svg)](https://wakatime.com/@637d5886-8b47-4b82-9264-3b3b9d6add67)
 
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 336 hrs 20 mins
-
-Python           215 hrs 6 mins  ███████████████░░░░░░░░░░   59.49 %
-Other            25 hrs 16 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-Markdown         24 hrs 25 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-JSON             21 hrs 57 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-YAML             18 hrs 30 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-```
-
-<!--END_SECTION:waka-->
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Moemu&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact me
 
