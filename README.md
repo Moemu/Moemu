@@ -14,15 +14,17 @@ I hope to become very good friends with you!
 ![](https://img.shields.io/badge/Ubuntu-24.04_LTS-e95420?style=for-the-badge&logo=Ubuntu)
 ![](https://img.shields.io/badge/Android-15-34a853?style=for-the-badge&logo=Android)
 
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
-![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=for-the-badge&logo=WebStrom&logoColor=white)
-![](https://img.shields.io/badge/IDE-IDEA-000000?style=for-the-badge&logo=WebStrom&logoColor=white)
-
 ![](https://img.shields.io/badge/-The_C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+
+![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)
+![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=for-the-badge)
+![](https://img.shields.io/badge/IDE-IDEA-000000?style=for-the-badge)
+
+![](https://img.shields.io/badge/Tool-Stata-135f92?style=for-the-badge)
 
 Learning:
 
