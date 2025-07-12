@@ -1,8 +1,8 @@
-## About me
+## About Muika
 
-你好呀，这里是 Muika 💜 我学了一点编程语言，目前大一在读。对大语言模型应用感兴趣 ，目前正在进行基于大语言模型的 Muicebot 开发。
+你好呀，这里是 Muika 💜 我学了一点编程语言，目前大二在读。对大语言模型应用感兴趣 ，目前正在进行基于大语言模型的 Muicebot 开发和论文写作。
 
-Hi there! This is Muika, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm working on the development of Muicebot which is based on a large language modelling application.
+Hi there! This is Muika, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm working on the development of Muicebot which is based on a large language modelling application and some researchs.
 
 希望能和你成为很好的朋友！
 
@@ -19,6 +19,7 @@ I hope to become very good friends with you!
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=for-the-badge)
@@ -35,7 +36,6 @@ Learning:
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=TypeScript&labelColor=white&color=%233178C6)
 
-![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 
@@ -54,9 +54,11 @@ Learning:
 
 ### Contact me
 
+QQ Group: [953490447](https://qm.qq.com/q/Q5rVU7wlag)
+
 Email: [i@snowy.moe](mailto:i@snowy.moe)
 
-Blog: [snowy.moe](https://blog.snowy.moe/)
+Website: [snowy.moe](https://blog.snowy.moe/)
 
 Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 
