@@ -1,12 +1,12 @@
 ## About Muika
 
-你好呀，这里是 Muika 💜 我学了一点编程语言，目前大二在读。对大语言模型应用感兴趣 ，目前正在进行基于大语言模型的 Muicebot 开发和论文写作。
+你好呀，这里是 Muika 💜 我学了一点编程语言，目前大二在读。对大语言模型应用感兴趣 ，目前正在撰写机器学习相关的论文。
 
-Hi there! This is Muika, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm working on the development of Muicebot which is based on a large language modelling application and some researchs.
+Hi there! This is Muika, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm currently writing a paper on machine learning.
 
-希望能和你成为很好的朋友！
+希望能和你创造出最美好的回忆~
 
-I hope to become very good friends with you!
+I hope to create the most wonderful memories with you~
 
 ### Platforms & Code
 
@@ -54,8 +54,6 @@ Learning:
 
 ### Contact me
 
-QQ Group: [953490447](https://qm.qq.com/q/Q5rVU7wlag)
-
 Email: [i@snowy.moe](mailto:i@snowy.moe)
 
 Website: [snowy.moe](https://blog.snowy.moe/)
@@ -65,4 +63,3 @@ Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 
 
 <a href="https://www.afdian.com/a/Moemu" target="_blank"><img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afadian" style="height: 45px !important;width: 163px !important;"></a>
-<a href="https://www.buymeacoffee.com/Moemu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 163px !important;" ></a>
