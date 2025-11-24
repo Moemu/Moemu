@@ -1,8 +1,8 @@
-## About Rikka
+## About Muika
 
-你好呀，这里是 Rikka, 我学了一点编程语言，目前大二在读。对大语言模型应用感兴趣 ，目前正在撰写机器学习相关的论文。
+你好呀，这里是 Muika, 我学了一点编程语言，目前大二在读。对大语言模型应用感兴趣 ，目前正在撰写机器学习相关的论文。
 
-Hi there! This is Rikka, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm currently writing a paper on machine learning.
+Hi there! This is Muika, a soon-to-be freshman. I've dabbled a bit in learning some programming languages and play around with LLMs (Large Language Models) in my free time. Currently, I'm currently writing a paper on machine learning.
 
 希望能和你创造出最美好的回忆~
 
@@ -22,6 +22,8 @@ I hope to create the most wonderful memories with you~
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple?style=for-the-badge)
+![](https://img.shields.io/badge/IDE-Visual%20Studio%202026-purple?style=for-the-badge)
 ![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=for-the-badge)
 ![](https://img.shields.io/badge/IDE-IDEA-000000?style=for-the-badge)
 
