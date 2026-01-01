@@ -1,4 +1,4 @@
-## About Muika
+## Muika(Asahina Mafuyu)✨
 
 你好呀，这里是 Muika, 我学了一点编程语言，目前大二在读。对大语言模型应用感兴趣 ，目前正在撰写机器学习相关的论文。
 
@@ -46,7 +46,7 @@ Learning:
 [![Moemu's github stats](https://stats.snowy.moe/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Top langs
-[![](https://stats.snowy.moe/api/top-langs/?username=Moemu&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://stats.snowy.moe/api/top-langs/?username=Moemu&layout=compact&theme=buefy&exclude_repo=MizukiBlog,Moemu.github.io,waline,Moemu2.0Website,github-readme-stats,Privacy-RSSHub)](https://github.com/anuraghazra/github-readme-stats)
 
 ### WakaTime
 
