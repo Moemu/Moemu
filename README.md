@@ -28,6 +28,7 @@ I hope to create the most wonderful memories with you~
 ![](https://img.shields.io/badge/IDE-IDEA-000000?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Tool-Stata-135f92?style=for-the-badge)
+![](https://img.shields.io/badge/Tool-TeXstudio-008080?style=for-the-badge)
 
 Learning:
 
@@ -37,9 +38,9 @@ Learning:
 ![](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-4FC08D?style=for-the-badge&logo=TypeScript&labelColor=white&color=%233178C6)
+![](https://img.shields.io/badge/-LaTex-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-
 
 ### Github stats
 
