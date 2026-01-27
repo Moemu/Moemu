@@ -2,7 +2,7 @@ name: Update Project Backlog
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # 每 6 小时
+    - cron: "0 */6 * * *" # Every 6 hours
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,6 @@ jobs:
         run: |
           node <<'EOF'
           const fs = require("fs");
-          const fetch = global.fetch;
 
           const query = `
           query {
@@ -31,15 +30,20 @@ jobs:
                         url
                         updatedAt
                       }
+                      ... on PullRequest {
+                        title
+                        url
+                        updatedAt
+                      }
                     }
                     fieldValues(first: 10) {
                       nodes {
                         ... on ProjectV2ItemFieldSingleSelectValue {
                           name
                           field {
-                            ... on ProjectV2FieldConfiguration {
-                              name
-                            }
+                            ... on ProjectV2Field { name }
+                            ... on ProjectV2IterationField { name }
+                            ... on ProjectV2SingleSelectField { name }
                           }
                         }
                       }
@@ -59,40 +63,54 @@ jobs:
               },
               body: JSON.stringify({ query })
             });
+            
             const json = await res.json();
-
-            // Log the raw response for debugging
-            console.log("Response from GitHub API:", JSON.stringify(json, null, 2));
+            
+            if (json.errors) {
+              console.error("GraphQL Errors:", JSON.stringify(json.errors, null, 2));
+              process.exit(1);
+            }
 
             const items = json.data?.user?.projectV2?.items?.nodes || [];
-
             let table = `| 项目 | 状态 | 最后更新 |\n|---|---|---|\n`;
 
             for (const item of items) {
               if (!item.content) continue;
 
-              const status = item.fieldValues.nodes.find(
-                f => f.field?.__typename === "ProjectV2FieldConfiguration" && f.field?.name === "Status"
-              )?.name || "—";
+              // Find the "Status" field within the fieldValues nodes
+              const statusNode = item.fieldValues.nodes.find(node => 
+                node.field?.name === "Status"
+              );
+              
+              const status = statusNode ? statusNode.name : "—";
+              const title = item.content.title;
+              const url = item.content.url;
+              const updated = item.content.updatedAt.slice(0, 10);
 
-              table += `| [${item.content.title}](${item.content.url}) | ${status} | ${item.content.updatedAt.slice(0,10)} |\n`;
+              table += `| [${title}](${url}) | ${status} | ${updated} |\n`;
             }
 
-            const readme = fs.readFileSync("README.md", "utf8");
-            const updated = readme.replace(
-              /<!-- PROJECTS:START -->([\s\S]*?)<!-- PROJECTS:END -->/,
-              `<!-- PROJECTS:START -->\n${table}\n<!-- PROJECTS:END -->`
-            );
-
-            fs.writeFileSync("README.md", updated);
+            const readmePath = "README.md";
+            if (fs.existsSync(readmePath)) {
+              const readme = fs.readFileSync(readmePath, "utf8");
+              const updatedReadme = readme.replace(
+                /([\s\S]*?)/,
+                `\n${table}\n`
+              );
+              fs.writeFileSync(readmePath, updatedReadme);
+            }
           }
 
-          run();
+          run().catch(err => {
+            console.error(err);
+            process.exit(1);
+          });
           EOF
 
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git commit -am "chore: update project backlog" || exit 0
+          git add README.md
+          git commit -m "chore: update project backlog" || exit 0
           git push
