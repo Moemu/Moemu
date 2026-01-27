@@ -105,8 +105,8 @@ jobs:
             const readmePath = "README.md";
             if (fs.existsSync(readmePath)) {
               const readme = fs.readFileSync(readmePath, "utf8");
-              const regex = /[\s\S]*?/i;
-              const newContent = `\n\n${table}\n`;
+              const regex = /<!-- PROJECTS:START -->[\s\S]*?<!-- PROJECTS:END -->/i;
+              const newContent = `<!-- PROJECTS:START -->\n${table}<!-- PROJECTS:END -->\n`;
               if (regex.test(readme)) {
                 console.log("找到匹配标签，正在更新内容...");
                 const updatedReadme = readme.replace(regex, newContent);
