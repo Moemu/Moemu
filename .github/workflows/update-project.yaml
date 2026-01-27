@@ -36,7 +36,11 @@ jobs:
                       nodes {
                         ... on ProjectV2ItemFieldSingleSelectValue {
                           name
-                          field { name }
+                          field {
+                            ... on ProjectV2FieldConfiguration {
+                              name
+                            }
+                          }
                         }
                       }
                     }
