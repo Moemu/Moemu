@@ -105,11 +105,16 @@ jobs:
             const readmePath = "README.md";
             if (fs.existsSync(readmePath)) {
               const readme = fs.readFileSync(readmePath, "utf8");
-              const updatedReadme = readme.replace(
-                /([\s\S]*?)/,
-                `\n${table}\n`
-              );
-              fs.writeFileSync(readmePath, updatedReadme);
+              const regex = /[\s\S]*?/i;
+              const newContent = `\n\n${table}\n`;
+              if (regex.test(readme)) {
+                console.log("找到匹配标签，正在更新内容...");
+                const updatedReadme = readme.replace(regex, newContent);
+                fs.writeFileSync(readmePath, updatedReadme);
+              } else {
+                console.error("错误：在 README.md 中找不到<!-- PROJECTS:START -->和<!-- PROJECTS:END -->标签！");
+                process.exit(0);
+              }
             }
           }
 
