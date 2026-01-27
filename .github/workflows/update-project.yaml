@@ -86,13 +86,12 @@ jobs:
 
                 // 2. 标题与链接 (如果是 Draft 则跳转到看板)
                 const title = content.title || "Untitled";
-                const url = content.url || projectUrl;
 
                 // 3. 日期 (优先看板更新时间)
                 const rawDate = item.updatedAt || "";
                 const updated = rawDate ? rawDate.slice(0, 10) : "—";
 
-                table += `| [${title}](${url}) | ${status} | ${updated} |\n`;
+                table += `| ${title} | ${status} | ${updated} |\n`;
               }
 
             const readmePath = "README.md";
