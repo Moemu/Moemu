@@ -78,13 +78,14 @@ Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 <!-- PROJECTS:START -->
 | Project | Status | Last Updated |
 |---|---|---|
-| [Muice-Chatbot](https://github.com/users/Moemu/projects/4) | 🔴Public archive | 2026-01-07 |
-| [Muice-Vtuber](https://github.com/users/Moemu/projects/4) | 🔴Public archive | 2026-01-07 |
-| [MuiceBot](https://github.com/users/Moemu/projects/4) | 🟡Maintenance mode | 2026-01-07 |
-| [Nonebot-Plugin-Rikka](https://github.com/users/Moemu/projects/4) | 🟡Maintenance mode | 2026-01-27 |
-| [OpenOtakuLab](https://github.com/users/Moemu/projects/4) | 🟢In development | 2026-01-07 |
-| [Muika-After-Story](https://github.com/users/Moemu/projects/4) | 🟢In development | 2026-01-27 |
+| Muice-Chatbot | 🔴Public archive | 2026-01-07 |
+| Muice-Vtuber | 🔴Public archive | 2026-01-07 |
+| MuiceBot | 🟡Maintenance mode | 2026-01-07 |
+| Nonebot-Plugin-Rikka | 🟡Maintenance mode | 2026-01-27 |
+| OpenOtakuLab | 🟢In development | 2026-01-07 |
+| Muika-After-Story | 🟢In development | 2026-01-27 |
 <!-- PROJECTS:END -->
+
 
 
 
