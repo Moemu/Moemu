@@ -80,9 +80,9 @@ jobs:
                 const statusNode = item.fieldValues.nodes.find(n => n.field?.name === "Status");
                 let status = statusNode ? statusNode.name : "—";
 
-                if (status == "Public archive") status = "🔴Public archive";
-                elif (status == "Maintenance mode") status = "🟡Maintenance mode";
-                elif (status == "In development") status = "🟢In development";
+                if (status == "Public archive") { status = "🔴Public archive"; }
+                else if (status == "Maintenance mode") { status = "🟡Maintenance mode"; }
+                else if (status == "In development") { status = "🟢In development"; }
 
                 // 2. 标题与链接 (如果是 Draft 则跳转到看板)
                 const title = content.title || "Untitled";
