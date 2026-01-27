@@ -76,15 +76,16 @@ Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 
 
 <!-- PROJECTS:START -->
-| 项目 | 状态 | 最后更新 |
+| Project | Status | Last Updated |
 |---|---|---|
-| [Muice-Chatbot](https://github.com/users/Moemu/projects/4) | Public archive | 2026-01-07 |
-| [Muice-Vtuber](https://github.com/users/Moemu/projects/4) | Public archive | 2026-01-07 |
-| [MuiceBot](https://github.com/users/Moemu/projects/4) | Maintenance mode | 2026-01-07 |
-| [Nonebot-Plugin-Rikka](https://github.com/users/Moemu/projects/4) | Maintenance mode | 2026-01-27 |
-| [OpenOtakuLab](https://github.com/users/Moemu/projects/4) | In development | 2026-01-07 |
-| [Muika-After-Story](https://github.com/users/Moemu/projects/4) | In development | 2026-01-27 |
+| [Muice-Chatbot](https://github.com/users/Moemu/projects/4) | 🔴Public archive | 2026-01-07 |
+| [Muice-Vtuber](https://github.com/users/Moemu/projects/4) | 🔴Public archive | 2026-01-07 |
+| [MuiceBot](https://github.com/users/Moemu/projects/4) | 🟡Maintenance mode | 2026-01-07 |
+| [Nonebot-Plugin-Rikka](https://github.com/users/Moemu/projects/4) | 🟡Maintenance mode | 2026-01-27 |
+| [OpenOtakuLab](https://github.com/users/Moemu/projects/4) | 🟢In development | 2026-01-07 |
+| [Muika-After-Story](https://github.com/users/Moemu/projects/4) | 🟢In development | 2026-01-27 |
 <!-- PROJECTS:END -->
+
 
 
 
