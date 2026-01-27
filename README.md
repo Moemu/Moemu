@@ -1,3 +1,13 @@
+
+| 项目 | 状态 | 最后更新 |
+|---|---|---|
+| [Muice-Chatbot](#) | Public archive | 2026-01-07 |
+| [Muice-Vtuber](#) | Public archive | 2026-01-07 |
+| [MuiceBot](#) | Maintenance mode | 2026-01-07 |
+| [Nonebot-Plugin-Rikka](#) | Maintenance mode | 2026-01-07 |
+| [OpenOtakuLab](#) | In development | 2026-01-07 |
+| [Muika-After-Story](#) | In development | 2026-01-07 |
+
 ## Asahina Mafuyu✨
 
 你好呀，这里是 Asahina Mafuyu(朝比奈真冬), 你也可以叫我 Muika，我学了一点编程语言，目前大二在读。我热衷于钻研和大语言模型有关的东西，希望通过自己的双手让自己的原创角色"活起来"，目前正在为 ACL Student Research Workshop 撰写论文。
