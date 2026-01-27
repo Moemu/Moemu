@@ -25,6 +25,7 @@ jobs:
                 items(first: 20) {
                   nodes {
                     content {
+                      __typename
                       ... on Issue {
                         title
                         url
@@ -35,9 +36,9 @@ jobs:
                         url
                         updatedAt
                       }
-                      ... on ProjectV2ItemDraftIssue {
+                      ... on DraftIssue {
                         title
-                        updatedAt # Drafts also have this, but inside the draft fragment
+                        updatedAt
                       }
                     }
                     fieldValues(first: 10) {
@@ -79,21 +80,24 @@ jobs:
             let table = `| 项目 | 状态 | 最后更新 |\n|---|---|---|\n`;
 
             for (const item of items) {
-              // If item.content is null (common with Drafts or restricted items), skip it
-              if (!item.content) continue;
+              const content = item.content;
+              if (!content) continue;
 
+              // 1. Get Status (Safe check)
               const statusNode = item.fieldValues.nodes.find(node => 
                 node.field?.name === "Status"
               );
-              
               const status = statusNode ? statusNode.name : "—";
-              const title = item.content.title || "Untitled";
-              const url = item.content.url || "#";
-              
-              // Safe check for updatedAt
-              const updated = item.content.updatedAt 
-                ? item.content.updatedAt.slice(0, 10) 
-                : "—";
+
+              // 2. Get Title and URL (Drafts don't have URLs)
+              const title = content.title || "Untitled";
+              const url = content.url || "#";
+
+              // 3. Get Date (Handle undefined safely)
+              let updated = "—";
+              if (content.updatedAt) {
+                updated = content.updatedAt.slice(0, 10);
+              }
 
               table += `| [${title}](${url}) | ${status} | ${updated} |\n`;
             }
