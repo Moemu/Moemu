@@ -70,7 +70,7 @@ jobs:
               const items = json.data?.user?.projectV2?.items?.nodes || [];
               
               // 构建 Markdown 表格
-              let table = `| 项目 | 状态 | 最后更新 |\n|---|---|---|\n`;
+              let table = `| Project | Status | Last Updated |\n|---|---|---|\n`;
 
               for (const item of items) {
                 const content = item.content;
@@ -78,7 +78,11 @@ jobs:
 
                 // 1. 提取状态 (Status)
                 const statusNode = item.fieldValues.nodes.find(n => n.field?.name === "Status");
-                const status = statusNode ? statusNode.name : "—";
+                let status = statusNode ? statusNode.name : "—";
+
+                if (status == "Public archive") status = "🔴Public archive";
+                elif (status == "Maintenance mode") status = "🟡Maintenance mode";
+                elif (status == "In development") status = "🟢In development";
 
                 // 2. 标题与链接 (如果是 Draft 则跳转到看板)
                 const title = content.title || "Untitled";
