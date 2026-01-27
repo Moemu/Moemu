@@ -22,24 +22,15 @@ jobs:
           query {
             user(login: "Moemu") {
               projectV2(number: 4) {
+                url
                 items(first: 20) {
                   nodes {
+                    updatedAt # 关键：看板条目的最后变动时间
                     content {
                       __typename
-                      ... on Issue {
-                        title
-                        url
-                        updatedAt
-                      }
-                      ... on PullRequest {
-                        title
-                        url
-                        updatedAt
-                      }
-                      ... on DraftIssue {
-                        title
-                        updatedAt
-                      }
+                      ... on DraftIssue { title }
+                      ... on Issue { title url }
+                      ... on PullRequest { title url }
                     }
                     fieldValues(first: 10) {
                       nodes {
@@ -47,7 +38,6 @@ jobs:
                           name
                           field {
                             ... on ProjectV2Field { name }
-                            ... on ProjectV2IterationField { name }
                             ... on ProjectV2SingleSelectField { name }
                           }
                         }
@@ -76,31 +66,30 @@ jobs:
               process.exit(1);
             }
 
-            const items = json.data?.user?.projectV2?.items?.nodes || [];
-            let table = `| 项目 | 状态 | 最后更新 |\n|---|---|---|\n`;
+              const projectUrl = json.data?.user?.projectV2?.url || "#";
+              const items = json.data?.user?.projectV2?.items?.nodes || [];
+              
+              // 构建 Markdown 表格
+              let table = `| 项目 | 状态 | 最后更新 |\n|---|---|---|\n`;
 
-            for (const item of items) {
-              const content = item.content;
-              if (!content) continue;
+              for (const item of items) {
+                const content = item.content;
+                if (!content) continue;
 
-              // 1. Get Status (Safe check)
-              const statusNode = item.fieldValues.nodes.find(node => 
-                node.field?.name === "Status"
-              );
-              const status = statusNode ? statusNode.name : "—";
+                // 1. 提取状态 (Status)
+                const statusNode = item.fieldValues.nodes.find(n => n.field?.name === "Status");
+                const status = statusNode ? statusNode.name : "—";
 
-              // 2. Get Title and URL (Drafts don't have URLs)
-              const title = content.title || "Untitled";
-              const url = content.url || "#";
+                // 2. 标题与链接 (如果是 Draft 则跳转到看板)
+                const title = content.title || "Untitled";
+                const url = content.url || projectUrl;
 
-              // 3. Get Date (Handle undefined safely)
-              let updated = "—";
-              if (content.updatedAt) {
-                updated = content.updatedAt.slice(0, 10);
+                // 3. 日期 (优先看板更新时间)
+                const rawDate = item.updatedAt || "";
+                const updated = rawDate ? rawDate.slice(0, 10) : "—";
+
+                table += `| [${title}](${url}) | ${status} | ${updated} |\n`;
               }
-
-              table += `| [${title}](${url}) | ${status} | ${updated} |\n`;
-            }
 
             const readmePath = "README.md";
             if (fs.existsSync(readmePath)) {
