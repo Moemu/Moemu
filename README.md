@@ -76,7 +76,16 @@ Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 
 
 <!-- PROJECTS:START -->
+| 项目 | 状态 | 最后更新 |
+|---|---|---|
+| [Muice-Chatbot](#) | Public archive | 2026-01-07 |
+| [Muice-Vtuber](#) | Public archive | 2026-01-07 |
+| [MuiceBot](#) | Maintenance mode | 2026-01-07 |
+| [Nonebot-Plugin-Rikka](#) | Maintenance mode | 2026-01-07 |
+| [OpenOtakuLab](#) | In development | 2026-01-07 |
+| [Muika-After-Story](#) | In development | 2026-01-07 |
 <!-- PROJECTS:END -->
+
 
 
 👉 [查看完整 Project 表格](https://github.com/users/Moemu/projects/4)
