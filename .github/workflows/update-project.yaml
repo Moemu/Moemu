@@ -72,7 +72,7 @@ jobs:
               if (!item.content) continue;
 
               const status = item.fieldValues.nodes.find(
-                f => f.field?.name === "Status"
+                f => f.field?.__typename === "ProjectV2FieldConfiguration" && f.field?.name === "Status"
               )?.name || "—";
 
               table += `| [${item.content.title}](${item.content.url}) | ${status} | ${item.content.updatedAt.slice(0,10)} |\n`;
