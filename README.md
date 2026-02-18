@@ -66,11 +66,12 @@ MaimaiDX, Chunithm, Arcaea, Project Sekai and other Galgames...
 
 ### Contact me
 
-Email: [i@snowy.moe](mailto:i@snowy.moe)
+[![Email](https://img.shields.io/badge/Email-i%40snowy.moe-blue?style=flat-square)](mailto:i@snowy.moe)
+[![Blog](https://img.shields.io/badge/Website-snowy.moe-brightgreen?style=flat-square)](https://blog.snowy.moe/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-Moemuu-ff69b4?style=flat-square)](https://space.bilibili.com/97020216)
+[![QQ Group](https://img.shields.io/badge/QQ群-26時聊天室-purple?style=flat-square)](https://qm.qq.com/q/y1gC9PU4IU)
 
-Website: [snowy.moe](https://blog.snowy.moe/)
 
-Bilibili：[@Moemuu](https://space.bilibili.com/97020216)
 
 ### Project Backlog
 
