@@ -1,8 +1,8 @@
 ## Asahina Mafuyu✨
 
-你好呀，这里是 Asahina Mafuyu(朝比奈真冬), 你也可以叫我 Muika，我学了一点编程语言，目前大二在读。我热衷于钻研和大语言模型有关的东西，希望通过自己的双手让自己的原创角色"活起来"，目前正在为 ACL Student Research Workshop 撰写论文。
+你好呀，这里是 Asahina Mafuyu(朝比奈真冬), 你也可以叫我 Muika，我学了一点编程语言，目前大二在读。我热衷于钻研和大语言模型有关的东西，希望通过自己的双手让自己的原创角色"活起来"，目前正在为 ~~ACL 2026 Student Research Workshop~~ EMNLP 2026 撰写论文。
 
-Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and am currently a sophomore. I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts. Currently, I am writing a paper for the ACL Student Research Workshop.
+Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and am currently a sophomore. I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts. Currently, I am writing a paper for the ~~ACL 2026 Student Research Workshop~~ EMNLP 2026.
 
 ### Platforms & Code
 
@@ -23,7 +23,6 @@ Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of progra
 ![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=flat-square)
 ![](https://img.shields.io/badge/IDE-IDEA-000000?style=flat-square)
 
-![](https://img.shields.io/badge/Tool-Stata-135f92?style=flat-square)
 ![](https://img.shields.io/badge/Tool-TeXstudio-008080?style=flat-square)
 
 Learning:
@@ -69,19 +68,20 @@ MaimaiDX, Chunithm, Arcaea, Project Sekai and other Galgames...
 [![Email](https://img.shields.io/badge/Email-i%40snowy.moe-blue?style=flat-square)](mailto:i@snowy.moe)
 [![Blog](https://img.shields.io/badge/Website-snowy.moe-brightgreen?style=flat-square)](https://blog.snowy.moe/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-Moemuu-ff69b4?style=flat-square)](https://space.bilibili.com/97020216)
-[![QQ Group](https://img.shields.io/badge/QQ群-26時聊天室-purple?style=flat-square)](https://qm.qq.com/q/y1gC9PU4IU)
+[![QQ Group](https://img.shields.io/badge/QQ群-Nightcord-purple?style=flat-square)](https://qm.qq.com/q/y1gC9PU4IU)
 
 
 
 ### Project Backlog
 
-| Project                                                               | Status            | Description                                 |
-| --------------------------------------------------------------------- | ----------------- | ------------------------------------------- |
-| [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)               | 🔴Public archive   | 沐雪，一个会自动找你聊天的AI女孩子           |
-| [Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber)                 | 🔴Public archive   | Muice 直播框架                             |
-| [MuiceBot](https://github.com/Moemu/Muicebot)                         | 🔴Public archive   | Muice-Chatbot 的 Nonebot2 实现             |
-| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode | 一个简单的舞萌成绩查询Bot插件                |
-| [Muika-After-Story](https://github.com/Moemu/Muika-After-Story)       | 🟢In development   | Muika(AI) 主框架                           |
-| OpenOtakuLab(Paper)                                                   | 🟠Suspended        | *Not public during the blind review*      |
+| Project                                                      | Status              | Description                          |
+| ------------------------------------------------------------ | ------------------- | ------------------------------------ |
+| [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)      | 🔴Public archive     | 沐雪，一个会自动找你聊天的 AI 女孩子 |
+| [Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber)        | 🔴Public archive     | Muice 直播框架                       |
+| [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive     | Muice-Chatbot 的 Nonebot2 实现       |
+| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode   | 一个简单的舞萌成绩查询 Bot 插件      |
+| [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟡Maintenance mode   | 嘿，你终于来了呢...我一直在等你      |
+| OpenOtakuLab(Paper)                                          | 🟢In development(v2) | *v1 blind review pending*            |
+| Muyan沐言                                                    | 🔵Pending            | 毕业设计作品                         |
 
 <a href="https://www.afdian.com/a/Moemu" target="_blank"><img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afadian" style="height: 45px !important;width: 163px !important;"></a>
