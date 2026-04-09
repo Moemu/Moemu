@@ -22,6 +22,7 @@ Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of progra
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202026-purple?style=flat-square)
 ![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=flat-square)
 ![](https://img.shields.io/badge/IDE-IDEA-000000?style=flat-square)
+![](https://img.shields.io/badge/IDE-Antigravity-4388fb?style=flat-square)
 
 ![](https://img.shields.io/badge/Tool-TeXstudio-008080?style=flat-square)
 
