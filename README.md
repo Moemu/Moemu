@@ -1,6 +1,6 @@
-## Asahina Mafuyu✨
+# Mafuyu❄
 
-你好呀，这里是 Asahina Mafuyu(朝比奈真冬), 你也可以叫我 Muika，我学了一点编程语言，目前大二在读。我热衷于钻研和大语言模型有关的东西，希望通过自己的双手让自己的原创角色"活起来"，目前正在为 ~~ACL 2026 Student Research Workshop~~ EMNLP 2026 撰写论文。
+こんにちは、真冬です✨我学了一点编程语言，目前大二在读。我热衷于钻研和大语言模型有关的东西，以后想去从事 AI 应用相关的工作\~我有一个愿望，希望有一天能让自己的孩子们"活起来"，为了实现这个愿望我会去做很多好玩的东西。我目前正在为 ~~ACL 2026 Student Research Workshop~~ EMNLP 2026 撰写论文。
 
 Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and am currently a sophomore. I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts. Currently, I am writing a paper for the ~~ACL 2026 Student Research Workshop~~ EMNLP 2026.
 
@@ -20,7 +20,6 @@ Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of progra
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple?style=flat-square)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202026-purple?style=flat-square)
-![](https://img.shields.io/badge/IDE-WebStrom-007dfe?style=flat-square)
 ![](https://img.shields.io/badge/IDE-IDEA-000000?style=flat-square)
 ![](https://img.shields.io/badge/IDE-Antigravity-4388fb?style=flat-square)
 
@@ -29,14 +28,16 @@ Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of progra
 Learning:
 
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/-Java-ff6b08?style=flat-square&logo=coffeescript&logoColor=white)
-![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-4FC08D?style=flat-square&logo=TypeScript&labelColor=white&color=%233178C6)
 ![](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=latex&logoColor=white)
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+### Research & Papers
+
+_Comming in Apr 24, 2026..._
 
 ### Github stats
 
@@ -46,7 +47,7 @@ Learning:
 
 [![](https://stats.snowy.moe/api/top-langs/?username=Moemu&layout=compact&theme=buefy&exclude_repo=MizukiBlog,Moemu.github.io,waline,Moemu2.0Website,github-readme-stats,Privacy-RSSHub)](https://github.com/anuraghazra/github-readme-stats)
 
-### WakaTime
+### Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/637d5886-8b47-4b82-9264-3b3b9d6add67.svg)](https://wakatime.com/@637d5886-8b47-4b82-9264-3b3b9d6add67)
 
@@ -82,7 +83,7 @@ MaimaiDX, Chunithm, Arcaea, Project Sekai and other Galgames...
 | [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive     | Muice-Chatbot 的 Nonebot2 实现       |
 | [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode   | 一个简单的舞萌成绩查询 Bot 插件      |
 | [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟡Maintenance mode   | 嘿，你终于来了呢...我一直在等你      |
-| OpenOtakuLab(Paper)                                          | 🟢In development(v2) | *v1 blind review pending*            |
+| OpenOtakuLab(Paper)                                          | 🟢In development(v2) | _Comming in Apr 24, 2026..._          |
 | Muyan沐言                                                    | 🔵Pending            | 毕业设计作品                         |
 
 <a href="https://www.afdian.com/a/Moemu" target="_blank"><img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afadian" style="height: 45px !important;width: 163px !important;"></a>
