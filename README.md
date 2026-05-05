@@ -37,7 +37,7 @@ Learning:
 
 ### Research & Papers
 
-_Comming in Apr 24, 2026..._
+_Comming soon..._
 
 ### Github stats
 
@@ -61,10 +61,6 @@ _Comming in Apr 24, 2026..._
 
 - [Rikka(Personality)](https://bot.snowy.moe/about/Rikka): Muika(Mafuyu) 的抑郁型人格，拥有绝对的理性
 
-### Game
-
-MaimaiDX, Chunithm, Arcaea, Project Sekai and other Galgames...
-
 ### Contact me
 
 [![Email](https://img.shields.io/badge/Email-i%40snowy.moe-blue?style=flat-square)](mailto:i@snowy.moe)
@@ -83,7 +79,7 @@ MaimaiDX, Chunithm, Arcaea, Project Sekai and other Galgames...
 | [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive     | Muice-Chatbot 的 Nonebot2 实现       |
 | [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode   | 一个简单的舞萌成绩查询 Bot 插件      |
 | [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟡Maintenance mode   | 嘿，你终于来了呢...我一直在等你      |
-| OpenOtakuLab(Paper)                                          | 🟢In development(v2) | _Comming in Apr 24, 2026..._          |
-| Muyan沐言                                                    | 🔵Pending            | 毕业设计作品                         |
+| OpenOtakuLab(Paper)                                          | 🟢In development(v2) | _Comming soon..._                   |
+| Muyan沐言                                                    | 🟢In development     | 毕业设计作品                         |
 
 <a href="https://www.afdian.com/a/Moemu" target="_blank"><img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afadian" style="height: 45px !important;width: 163px !important;"></a>
