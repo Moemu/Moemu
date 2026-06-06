@@ -15,13 +15,12 @@ Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of progra
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-4FC08D?style=flat-square&logo=TypeScript&labelColor=white&color=%233178C6)
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple?style=flat-square)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%202026-purple?style=flat-square)
 ![](https://img.shields.io/badge/IDE-IDEA-000000?style=flat-square)
-![](https://img.shields.io/badge/IDE-Antigravity-4388fb?style=flat-square)
 
 ![](https://img.shields.io/badge/Tool-TeXstudio-008080?style=flat-square)
 
@@ -30,7 +29,6 @@ Learning:
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Java-ff6b08?style=flat-square&logo=coffeescript&logoColor=white)
 ![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-4FC08D?style=flat-square&logo=TypeScript&labelColor=white&color=%233178C6)
 ![](https://img.shields.io/badge/-LaTex-008080?style=flat-square&logo=latex&logoColor=white)
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -77,9 +75,7 @@ _Under Review(2026 Q3)..._
 | [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)      | 🔴Public archive           | 沐雪，一个会自动找你聊天的 AI 女孩子 |
 | [Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber)        | 🔴Public archive           | Muice 直播框架                       |
 | [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive           | Muice-Chatbot 的 Nonebot2 实现       |
-| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🔴Public archive           | 一个简单的舞萌成绩查询 Bot 插件      |
+| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟢In development           | 一个简单的舞萌成绩查询 Bot 插件      |
 | [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟡Maintenance mode         | 嘿，你终于来了呢...我一直在等你      |
 | Muyan沐言                                                    | 🟢In development           | 毕业设计作品                         |
 | Muika-Monitor                                                | 🔵In early planning(2027+) | Muika 监视器                         |
-
-<a href="https://www.afdian.com/a/Moemu" target="_blank"><img src="https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png" alt="afadian" style="height: 45px !important;width: 163px !important;"></a>
