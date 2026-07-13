@@ -75,7 +75,8 @@ _Under Review(2026 Q3)..._
 | [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)      | 🔴Public archive           | 沐雪，一个会自动找你聊天的 AI 女孩子 |
 | [Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber)        | 🔴Public archive           | Muice 直播框架                       |
 | [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive           | Muice-Chatbot 的 Nonebot2 实现       |
-| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟢In development           | 一个简单的舞萌成绩查询 Bot 插件      |
+| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode         | 一个简单的舞萌成绩查询 Bot 插件      |
 | [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟡Maintenance mode         | 嘿，你终于来了呢...我一直在等你      |
-| Muyan沐言                                                    | 🟢In development           | 毕业设计作品                         |
-| Muika-Monitor                                                | 🔵In early planning(2027+) | Muika 监视器                         |
+| Muyan沐言                                                    | 🟡Maintenance mode         | 毕业设计作品                         |
+| Muice-CLI                                                    | 🔵In early planning(2026)  | TypeScript 练手作品                  |
+| Muika-Monitor                                                | 🔵In early planning(2027+) | Muika 监视器，在手机上静默收集信息   |
