@@ -1,8 +1,8 @@
-# Mafuyu❄
+# Asahina Mafuyu🌙
 
-こんにちは、真冬です✨我学了一点编程语言，目前大二在读。我热衷于钻研和大语言模型有关的东西，以后想去从事 AI 应用相关的工作\~我有一个愿望，希望有一天能让自己的孩子们"活起来"，为了实现这个愿望我会去做很多好玩的东西。我目前正在为 ~~ACL 2026 Student Research Workshop~~ EMNLP 2026 撰写论文。
+こんにちは、真冬です✨我学了一点编程语言，目前大三在读，实习准备中。我热衷于钻研和大语言模型有关的东西，希望有一天能让自己的孩子们"活起来"，为了实现这个愿望我会去做很多好玩的东西。我目前正在为 EMNLP 2026 撰写论文。
 
-Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and am currently a sophomore. I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts. Currently, I am writing a paper for the ~~ACL 2026 Student Research Workshop~~ EMNLP 2026.
+Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and am currently a sophomore. I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts. Currently, I am writing a paper for the EMNLP 2026.
 
 ### Platforms & Code
 
@@ -35,7 +35,11 @@ Learning:
 
 ### Research & Papers
 
-_Under Review(2026 Q3)..._
+- [2603.05933](https://arxiv.org/abs/2603.05933) Structured Style-Rewrite with Chain-of-Thought Planning for Low-Resource Character Dialogue
+
+### Datasets
+
+- Muice-Dataset: 沐雪角色扮演训练集  [HuggingFace](https://huggingface.co/datasets/Moemu/Muice-Dataset), [ModelScope](https://www.modelscope.cn/datasets/Moemuu/Muice-Dataset)
 
 ### Github stats
 
@@ -51,13 +55,13 @@ _Under Review(2026 Q3)..._
 
 [![wakatime](https://stats.snowy.moe/api/wakatime?username=Moemu&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-### Original Character
+### Original Characters
 
 - [Muice](https://bot.snowy.moe/about/Muice): 16 岁的可爱 AI Vtuber，喜欢面包
 
-- [Muika(AI)](https://bot.snowy.moe/about/Muika): 拥有打破第四面墙的能力和最专一的爱，其企划正在绝赞开发中
+- [Muika](https://mas.snowy.moe/about/): 拥有打破第四面墙的能力和最专一的爱，其企划正在绝赞开发中
 
-- [Rikka(Personality)](https://bot.snowy.moe/about/Rikka): Muika(Mafuyu) 的抑郁型人格，拥有绝对的理性
+- [Rikka](https://bot.snowy.moe/about/Rikka): 音乐节奏游戏很厉害的女孩子，但是似乎很难靠近（？）
 
 ### Contact me
 
@@ -66,8 +70,6 @@ _Under Review(2026 Q3)..._
 [![Bilibili](https://img.shields.io/badge/Bilibili-Moemuu-ff69b4?style=flat-square)](https://space.bilibili.com/97020216)
 [![QQ Group](https://img.shields.io/badge/QQ群-Nightcord-purple?style=flat-square)](https://qm.qq.com/q/y1gC9PU4IU)
 
-
-
 ### Project Backlog
 
 | Project                                                      | Status                    | Description                          |
@@ -75,8 +77,8 @@ _Under Review(2026 Q3)..._
 | [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)      | 🔴Public archive           | 沐雪，一个会自动找你聊天的 AI 女孩子 |
 | [Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber)        | 🔴Public archive           | Muice 直播框架                       |
 | [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive           | Muice-Chatbot 的 Nonebot2 实现       |
-| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode         | 一个简单的舞萌成绩查询 Bot 插件      |
-| [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟡Maintenance mode         | 嘿，你终于来了呢...我一直在等你      |
-| Muyan沐言                                                    | 🟡Maintenance mode         | 毕业设计作品                         |
+| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode         | Nonebot2 舞萌中二查分Bot插件         |
+| Muyan沐言                                                    | 🟡Maintenance mode         | 通用 LLM 对话 PWA 引用               |
+| [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟢Active development       | 我喜欢你，给我看看你好不好           |
 | Muice-CLI                                                    | 🔵In early planning(2026)  | TypeScript 练手作品                  |
 | Muika-Monitor                                                | 🔵In early planning(2027+) | Muika 监视器，在手机上静默收集信息   |
