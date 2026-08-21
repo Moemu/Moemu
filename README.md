@@ -1,8 +1,8 @@
 # Asahina Mafuyu🌙
 
-こんにちは、真冬です✨我学了一点编程语言，目前大三在读，实习准备中。我热衷于钻研和大语言模型有关的东西，希望有一天能让自己的孩子们"活起来"，为了实现这个愿望我会去做很多好玩的东西。我目前正在为 EMNLP 2026 撰写论文。
+こんにちは、真冬です✨我学了一点编程语言和 Agent 技术，目前大三在读，正在寻找实习和就业机会。我热衷于钻研和大语言模型有关的东西，希望有一天能让自己的孩子们"活起来"，为了实现这个愿望我会去做很多好玩的东西。
 
-Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and am currently a sophomore. I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts. Currently, I am writing a paper for the EMNLP 2026.
+Hi there! I'm Asahina Mafuyu (also known as Muika). I've learned a bit of programming language and Agent Technology and am currently a sophomore (Looking for internship and employment opportunities). I'm passionate about exploring things related to Large Language Models(LLMs) and hope to bring my original characters to life through my own efforts.
 
 ### Platforms & Code
 
@@ -33,13 +33,41 @@ Learning:
 
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-### Research & Papers
+### Projects & Contributions
 
-- [2603.05933](https://arxiv.org/abs/2603.05933) Structured Style-Rewrite with Chain-of-Thought Planning for Low-Resource Character Dialogue
+#### Chatbots🎀
 
-### Datasets
+- [Moemu/Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot):  沐雪，一个会自动找你聊天的 AI 女孩子 (Public Archive)
+- [Moemu/Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber): Muice 直播框架 (Public Archive)
+- [Moemu/MuiceBot](https://github.com/Moemu/Muicebot): Muice-Chatbot 的 Nonebot2 实现 (Public Archive)
+- [Moemu/Muika-After-Story](https://github.com/Moemu/Muika-After-Story): 基于状态机的事件循环地雷系 Chatbot Framework，角色原型 Monika(Doki Doki Literature Club)
 
-- Muice-Dataset: 沐雪角色扮演训练集  [HuggingFace](https://huggingface.co/datasets/Moemu/Muice-Dataset), [ModelScope](https://www.modelscope.cn/datasets/Moemuu/Muice-Dataset)
+#### Applications☕
+
+- [Moemu/VocaStar](https://github.com/Moemu/VocaStar): 一个职业规划与测评平台，在学校软件设计大赛的决赛上荣获二等奖 (Public Archive)
+- Muyan沐言: 通用 LLM 对话 PWA 应用 (In Early Planning)
+- Muice-CLI: TypeScript 练手作品 (In Early Planning)
+- Muika-Monitor: Muika 监视器，在手机上静默收集信息 (In Early Planning)
+
+#### Plugins🧩
+
+- [Moemu/Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka): Nonebot2 舞萌中二查分Bot插件
+
+#### Contributed🌷
+
+- [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress): 好耶 是女装 (此情可待成追忆，只是当时已惘然。组织前维护者，已删除贡献内容）
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): Programmer's guide about how to cook at home. [#1407](https://github.com/Anduin2017/HowToCook/pull/1407)
+- [hiyohiyo/CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo): CrystalDiskInfo. [#266](https://github.com/hiyohiyo/CrystalDiskInfo/pull/266) [#272](https://github.com/hiyohiyo/CrystalDiskInfo/pull/272)
+- [TrueRou/maimai.py](https://github.com/TrueRou/maimai.py): The definitive python wrapper for MaimaiCN related development. 用于国服舞萌相关开发的最佳Python工具库。 [#45](https://github.com/TrueRou/maimai.py/pull/45) [#47](https://github.com/TrueRou/maimai.py/pull/47)
+- [shikanon/cookies](https://github.com/shikanon/cookies): Cookies, where ads understand needs. (前实习维护项目)
+
+#### Research & Papers📄
+
+- [2603.05933](https://arxiv.org/abs/2603.05933): Structured Style-Rewrite with Chain-of-Thought Planning for Low-Resource Character Dialogue
+
+#### Datasets & Models🐰
+
+- [Muice-Dataset](https://huggingface.co/datasets/Moemu/Muice-Dataset): 沐雪角色扮演训练集  [HuggingFace](https://huggingface.co/datasets/Moemu/Muice-Dataset), [ModelScope](https://www.modelscope.cn/datasets/Moemuu/Muice-Dataset)
 
 ### Github stats
 
@@ -69,16 +97,3 @@ Learning:
 [![Blog](https://img.shields.io/badge/Website-snowy.moe-brightgreen?style=flat-square)](https://blog.snowy.moe/)
 [![Bilibili](https://img.shields.io/badge/Bilibili-Moemuu-ff69b4?style=flat-square)](https://space.bilibili.com/97020216)
 [![QQ Group](https://img.shields.io/badge/QQ群-Nightcord-purple?style=flat-square)](https://qm.qq.com/q/y1gC9PU4IU)
-
-### Project Backlog
-
-| Project                                                      | Status                    | Description                          |
-| ------------------------------------------------------------ | ------------------------- | ------------------------------------ |
-| [Muice-Chatbot](https://github.com/Moemu/Muice-Chatbot)      | 🔴Public archive           | 沐雪，一个会自动找你聊天的 AI 女孩子 |
-| [Muice-Vtuber](https://github.com/Moemu/Muice-Vtuber)        | 🔴Public archive           | Muice 直播框架                       |
-| [MuiceBot](https://github.com/Moemu/Muicebot)                | 🔴Public archive           | Muice-Chatbot 的 Nonebot2 实现       |
-| [Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka) | 🟡Maintenance mode         | Nonebot2 舞萌中二查分Bot插件         |
-| Muyan沐言                                                    | 🟡Maintenance mode         | 通用 LLM 对话 PWA 引用               |
-| [Muika-After-Story](https://github.com/Moemu/Muika-After-Story) | 🟢Active development       | 我喜欢你，给我看看你好不好           |
-| Muice-CLI                                                    | 🔵In early planning(2026)  | TypeScript 练手作品                  |
-| Muika-Monitor                                                | 🔵In early planning(2027+) | Muika 监视器，在手机上静默收集信息   |
