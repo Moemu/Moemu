@@ -46,7 +46,7 @@ Learning:
 
 - [Moemu/VocaStar](https://github.com/Moemu/VocaStar): 一个职业规划与测评平台，在学校软件设计大赛的决赛上荣获二等奖 (Public Archive)
 - [Moemu/RichiDrama](https://github.com/Moemu/RichiDrama): 瑞池传媒 AI 短剧生产平台。支持项目、素材、分镜、视频生成、账户、计费与自托管部署 (前实习维护项目 / Vibe Coding)
-- [Muyan沐言](https://github.com/Moemu/Muyan): With so many AI chat apps available, this one is uniquely yours. (Vibe Coding)
+- [Moemu/Muyan](https://github.com/Moemu/Muyan): With so many AI chat apps available, this one is uniquely yours. (Vibe Coding)
 - Muice-CLI: TypeScript 练手作品 (In Early Planning)
 - Muika-Monitor: Muika 监视器，在手机上静默收集信息 (In Early Planning)
 
