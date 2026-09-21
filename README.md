@@ -54,6 +54,10 @@ Learning:
 
 - [Moemu/Nonebot-Plugin-Rikka](https://github.com/Moemu/Nonebot-Plugin-Rikka): Nonebot2 舞萌中二查分Bot插件
 
+#### Experiments🧪
+
+- [Moemu/Shouko](https://github.com/Moemu/Shouko): 我们训练了一只果蝇来操控美少女的身体 (Multi Agent Research Experiment)
+
 #### Contributed🌷
 
 - [Cute-Dress/Dress](https://github.com/Cute-Dress/Dress): 好耶 是女装 (此情可待成追忆，只是当时已惘然。组织前维护者，已删除贡献内容）
