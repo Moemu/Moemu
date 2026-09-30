@@ -69,7 +69,7 @@ Learning:
 
 #### Research & Papers📄
 
-- [2603.05933](https://arxiv.org/abs/2603.05933): Structured Style-Rewrite with Chain-of-Thought Planning for Low-Resource Character Dialogue
+- [2603.05933](https://arxiv.org/abs/2603.05933): Structured Style-Rewrite with Chain-of-Thought Planning for Low-Resource Character Dialogue (复现仓库 [Moemu/OtakuLab](https://github.com/Moemu/OtakuLab))
 
 #### Datasets & Models🐰
 
