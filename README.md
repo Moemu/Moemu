@@ -81,21 +81,14 @@ Learning:
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://stats.snowy.moe/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=omni"
+      srcset="https://stats.snowy.moe/api?username=Moemu&theme=omni&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     />
     <img
-      src="https://stats.snowy.moe/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy"
+      src="https://stats.snowy.moe/api?username=Moemu&theme=buefy&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
       alt="Moemu's GitHub stats"
     />
   </picture>
 </a>
-<a href="https://ghfind.com/u/Moemu?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
-
 
 ### Top langs
 
@@ -126,6 +119,15 @@ Learning:
       src="https://stats.snowy.moe/api/wakatime?username=Moemu&langs_count=5&theme=buefy"
       alt="Moemu's Top Languages"
     />
+  </picture>
+</a>
+
+### GitHub Roast
+
+<a href="https://ghfind.com/u/Moemu?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
 
