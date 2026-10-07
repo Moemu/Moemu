@@ -47,7 +47,7 @@ Learning:
 - [Moemu/VocaStar](https://github.com/Moemu/VocaStar): 一个职业规划与测评平台，在学校软件设计大赛的决赛上荣获二等奖 (Public Archive)
 - [Moemu/Muyan](https://github.com/Moemu/Muyan): With so many AI chat apps available, this one is uniquely yours. (AI Coding)
 - [Moemu/Erika](https://github.com/Moemu/Erika): 为你的仓库绘制 GrokBot Banner 的 API 女仆. (AI Coding)
-- Haruka: 站在灯塔上向远方报信的少女，把孤独的人格遥遥传给远方的访客 (AI Coding)
+- [Moemu/Haruka](https://github.com/Moemu/Haruka): 站在灯塔上向远方报信的少女，把孤独的人格遥遥传给远方的访客 (AI Coding)
 - Muice-CLI: TypeScript 练手作品 (In Early Planning)
 
 #### Plugins🧩
@@ -77,17 +77,57 @@ Learning:
 
 ### Github stats
 
-[![Moemu's github stats](https://stats.snowy.moe/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://stats.snowy.moe/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=omni"
+    />
+    <img
+      src="https://stats.snowy.moe/api?username=Moemu&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=buefy"
+      alt="Moemu's GitHub stats"
+    />
+  </picture>
+</a>
+<a href="https://ghfind.com/u/Moemu?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+
 
 ### Top langs
 
-[![](https://stats.snowy.moe/api/top-langs/?username=Moemu&layout=compact&theme=buefy&exclude_repo=MizukiBlog,Moemu.github.io,waline,Moemu2.0Website,github-readme-stats,Privacy-RSSHub)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://stats.snowy.moe/api/top-langs/?username=Moemu&layout=compact&theme=omni&exclude_repo=MizukiBlog,github-readme-stats,Privacy-RSSHub"
+    />
+    <img
+      src="https://stats.snowy.moe/api/top-langs/?username=Moemu&layout=compact&theme=buefy&exclude_repo=MizukiBlog,github-readme-stats,Privacy-RSSHub"
+      alt="Moemu's Top Languages"
+    />
+  </picture>
+</a>
 
 ### Coding Time
 
 [![wakatime](https://wakatime.com/badge/user/637d5886-8b47-4b82-9264-3b3b9d6add67.svg)](https://wakatime.com/@637d5886-8b47-4b82-9264-3b3b9d6add67)
 
-[![wakatime](https://stats.snowy.moe/api/wakatime?username=Moemu&langs_count=5&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://stats.snowy.moe/api/wakatime?username=Moemu&langs_count=5&theme=omni"
+    />
+    <img
+      src="https://stats.snowy.moe/api/wakatime?username=Moemu&langs_count=5&theme=buefy"
+      alt="Moemu's Top Languages"
+    />
+  </picture>
+</a>
 
 ### Original Characters
 
