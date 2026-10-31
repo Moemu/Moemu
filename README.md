@@ -122,15 +122,6 @@ Learning:
   </picture>
 </a>
 
-### GitHub Roast
-
-<a href="https://ghfind.com/u/Moemu?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/Moemu?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
-
 ### Original Characters
 
 - [Muice](https://bot.snowy.moe/about/Muice): 16 岁的可爱 AI Vtuber，喜欢面包
